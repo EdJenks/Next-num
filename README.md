@@ -4,7 +4,7 @@ An app to implement the method nextNum() and a minimal set of unit tests.
 
 The app aims to solve the problem of being given Random Numbers (e.g [-1, 0, 1, 2, 3]) and frequencies/probabilities that they should be reproduced in (e.g [0.01, 0.3, 0.58, 0.1, 0.01]). In this exmaple, if we run the app 100 times, we hope to get the following results:
 
--1: 1 times
+-1: 1 time
 
 0: 22 times
 
